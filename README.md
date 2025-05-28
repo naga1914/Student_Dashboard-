@@ -6,6 +6,8 @@ Here's a professional, clean, and attractive `README.md` file for your **Student
 
 A modern, responsive student dashboard built using HTML, CSS, and JavaScript. This project offers students a streamlined interface to view their academic information, including attendance, timetable, profile details, and announcements. The design ensures an intuitive user experience, making academic tracking efficient and visually appealing.
 
+## Live demo: https://student-dashboard-jade.vercel.app/ 
+
 ## Overview
 
 The **Student Dashboard** is a front-end project designed for university students to manage and view their academic data in one place. It simulates a real-world student portal used in college management systems.
